@@ -1,38 +1,64 @@
-# 🧘 Egzersiz Kütüphanesi
+# 🧘 Egzersiz Kütüphanesi: Prehab Protokolü
 
-Bu bölüm, yazılımcıların en çok sorun yaşadığı bölgelere yönelik spesifik hareketleri içerir.
+Bu kütüphane, sadece "hareket" etmek için değil, masa başı çalışmanın yarattığı bio-mekanik bozulmaları **onarmak** ve **önlemek** (prehabilitation) için tasarlanmıştır.
 
-## 🟢 Boyun ve Omuzlar
+## 🏗️ Üst Zincir: Postür Refaktörü
 
-### 1. Chin Tuck (Çene İçeri)
-- **Amaç:** "Forward Head" (başın önde olması) duruşunu düzeltmek.
-- **Nasıl Yapılır:** Başınızı öne eğmeden, çenenizi sanki bir çekmeceyi kapatır gibi geriye doğru itin. Arkada "çift çene" oluşturmaya çalışın. 5 saniye tutun.
-- **Tekrar:** 10 tekrar.
+### 1. Chin Tuck (Çene İçeri - Biyolojik Debug)
+- **Problem:** Forward Head Posture (Başın önde olması). Boyun omurlarına binen yükü 3x artırır.
+- **Odak Kas:** Derin boyun fleksörleri (Deep Neck Flexors).
+- **Nasıl Yapılır:** Gözleriniz ufuk çizgisine paralel olsun. Başınızı geriye, kulaklarınız omuz hizasına gelecek şekilde itin. Gıdınızın çıktığından emin olun.
+- **Dozaj:** 10 tekrar x 5 saniye tutuş. (Her saat başı yapılması önerilir).
 
-### 2. Scapular Retraction (Kürek Kemiği Sıkıştırma)
-- **Amaç:** Sırt kaslarını aktive etmek ve kamburluğu önlemek.
-- **Nasıl Yapılır:** Omuzlarınızı aşağı ve geriye çekerek kürek kemiklerinizi ortada birleştirmeye çalışın.
-- **Tekrar:** 12 tekrar.
+### 2. Wall Slide (Duvar Kaydırağı)
+- **Problem:** Omuzların öne yuvarlanması ve Serratus Anterior zayıflığı.
+- **Odak Kas:** Alt trapezler ve Serratus Anterior.
+- **Nasıl Yapılır:** Sırtınızı, başınızı ve kollarınızı duvara yaslayın. Kollarınızı "W" şeklinde tutun. Teması kesmeden kollarınızı yukarıya (Y şekline) doğru kaydırın.
+- **Dozaj:** 12-15 kontrollü tekrar.
 
-## 🔵 Bel ve Kalça
-
-### 1. Hip Flexor Stretch
-- **Amaç:** Uzun süre oturmaktan kısalan kalça kaslarını açmak.
-- **Nasıl Yapılır:** Bir dizinizin üzerine çökün (şövalye duruşu). Kalçanızı hafifçe öne itin, arkadaki bacağınızın ön kısmında gerilme hissetmelisiniz.
-- **Süre:** Her bacak için 30 saniye.
-
-### 2. Cat-Cow (Kedi-İnek)
-- **Amaç:** Omurgayı hareketlendirmek.
-- **Nasıl Yapılır:** Ellerin ve dizlerin üzerinde durun. Nefes alırken belinizi çukurlaştırıp yukarı bakın, nefes verirken sırtınızı kamburlaştırıp karnınıza bakın.
-- **Tekrar:** 10 tekrar.
-
-## 🟡 Bilek ve Ön Kol
-
-### 1. Wrist Extensor Stretch
-- **Amaç:** Fare ve klavye kullanımı kaynaklı gerginliği azaltmak.
-- **Nasıl Yapılır:** Kolunuzu öne uzatın, avucunuz aşağı baksın. Diğer elinizle el bileğinizi aşağı doğru nazikçe bükün.
-- **Süre:** 20 saniye.
+### 3. Face Pull (Bant ile Veya Havluyla)
+- **Problem:** Zayıf arka omuzlar ve kürek kemiği instabilitesi.
+- **Odak Kas:** Rear Deltoids, Rhomboids, Mid-Traps.
+- **Nasıl Yapılır:** Direnç bandını göz hizanızda bir yere sabitleyin. Bandı kendinize, dirsekleriniz dışarıya bakacak şekilde, alnınıza doğru çekin. Çekişin sonunda kürek kemiklerinizi iyice sıkıştırın.
+- **Dozaj:** 3 set x 15 tekrar.
 
 ---
-> [!IMPORTANT]
-> Herhangi bir hareket sırasında keskin bir ağrı hissederseniz hemen durun ve bir uzmana danışın.
+
+## 🏛️ Merkez ve Alt Zincir: Stabilizasyon Katmanı
+
+### 1. Hip Flexor Stretch (Psoas Release)
+- **Problem:** Uzun süre oturmaktan kısalan kalça kasları (Bel ağrısının bir numaralı kök nedeni).
+- **Odak Kas:** Iliopsoas.
+- **Nasıl Yapılır:** Bir dizinizin üzerine çökün. Kalçanızı (pelvis) hafifçe arkaya (posterior tilt) yatırın ve gövdenizi dik tutarak kalçanızı öne itin. Dizinizin hemen üzerinde, derin bir gerilme hissetmelisiniz.
+- **Dozaj:** Her bacak için 45-60 saniye.
+
+### 2. Deadbug (Ölü Böcek)
+- **Problem:** "Anterior Pelvic Tilt" ve zayıf core stabilizasyonu.
+- **Odak Kas:** Transversus Abdominis ve Obliques.
+- **Nasıl Yapılır:** Sırt üstü yatın, ellerinizi ve dizlerinizi (90 derece) havaya kaldırın. Belinizi yere mühürleyin. Karşı kol ve karşı bacağı, belinizin yerden kalkmasına izin vermeden kontrollü bir şekilde yere indirin.
+- **Dozaj:** 3 set x 10 kontrollü tekrar.
+
+### 3. Glute Bridge (Kalça Köprüsü)
+- **Problem:** Gluteal Amnesia (Kalça kaslarının "uyuması").
+- **Odak Kas:** Gluteus Maximus.
+- **Nasıl Yapılır:** Sırt üstü yatın, dizlerinizi bükün. Ayak topuklarınızdan güç alarak kalçanızı yukarı kaldırın. En tepede kalçanızı 2 saniye boyunca maksimum güçle sıkın.
+- **Dozaj:** 3 set x 15-20 tekrar.
+
+---
+
+## ⌨️ Periferik Modüller: Bilek ve Parmaklar
+
+### 1. Wrist Extensor Mobilite
+- **Problem:** Karpal Tünel Sendromu riski ve ön kol gerginliği.
+- **Nasıl Yapılır:** Kolunuzu tam olarak öne uzatın, elinizi yumruk yapın ve aşağı bükün. Diğer elinizle nazikçe bu gerginliği artırın.
+- **Dozaj:** 30 saniye tutuş.
+
+### 2. Median Nerve Gliding (Sinir Kaydırma)
+- **Problem:** Sinir sıkışmalarına bağlı uyuşmalar.
+- **Nasıl Yapılır:** Kolunuzu yana açın, avucunuz tavana baksın. Başınızı elinizden uzaklaştırırken parmaklarınızı yere doğru bükün (kaydırma hareketi).
+- **Dozaj:** 10 yumuşak tekrar (Asla zorlamayın).
+
+---
+
+> [!CAUTION]
+> **Önemli:** Egzersizler sırasında keskin, batan veya elektrik çarpar gibi bir ağrı hissederseniz hareketi durdurun. Bu rehber proaktif koruma içindir, tanı koyma veya tedavi etme amacı taşımaz.

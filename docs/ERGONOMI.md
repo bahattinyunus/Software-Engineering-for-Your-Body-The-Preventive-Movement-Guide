@@ -1,23 +1,42 @@
-# 🪑 Dijital İş İstasyonu ve Ergonomi Rehberi
+# 🪑 Dijital İş İstasyonu ve Ergonomi: Sistem Mimarisi
 
-Ekran karşısında geçirdiğiniz zamanın kalitesi, sadece kullandığınız IDE'ye veya işlemci hızına bağlı değildir; vücudunuzun bu süreçteki pozisyonu belirleyicidir.
+Çalışma alanınız, vücudunuzun gün boyu etkileşimde olduğu bir "Hardware Interface"dir. Kötü bir kurulum, biyolojik sisteminize sürekli hatalı veri (yanlış yükleme) gönderir.
 
-## 1. Monitör Kurulumu
-- **Göz Hizası:** Monitörün üst kenarı göz hizanızda veya biraz altında olmalıdır. Sürekli aşağı veya yukarı bakmak boyun fıtığına davetiyedir.
-- **Mesafe:** Monitör ile aranızda yaklaşık bir kol mesafesi (50-70 cm) olmalıdır.
-- **Işık:** Ekranda yansıma olmamasına dikkat edin.
+## 1. Monitör: Görsel Input Yönetimi
 
-## 2. Koltuk Ayarı
-- **Bel Desteği (Lumbar Support):** Koltuğunuzun bel kavisinizi desteklediğinden emin olun. Eğer destek yoksa, küçük bir yastık veya rulo yapılmış havlu kullanın.
-- **Yükseklik:** Ayaklarınız yere tam basmalı, dizleriniz kalçanızla aynı hizada veya biraz aşağıda olmalıdır.
-- **Diz Mesafesi:** Koltuğun ön kenarı ile dizinizin arkası arasında 2-3 parmak boşluk olmalıdır.
+Monitör pozisyonu, boyun omurlarınızın (cervical spine) sağlığını belirleyen en kritik faktördür.
 
-## 3. Masa ve Klavye
-- **Dirsek Açısı:** Klavye ve mouse kullanırken dirsekleriniz 90-100 derecelik bir açıda, vücudunuza yakın olmalıdır.
-- **Bilek Pozisyonu:** Bilekleriniz bükülmemeli, klavye ile düz bir hat üzerinde olmalıdır. Bilek desteği (wrist rest) faydalı olabilir ancak bileği baskılamamalıdır.
+*   **Line of Sight (Görüş Hattı):** Monitörün üst kenarı, dik oturduğunuzda tam göz hizanızda olmalıdır. Gözleriniz ekranın orta-üst kısmına hafif bir açıyla (15-20 derece) bakmalıdır.
+    *   *Neden?* Sürekli aşağı bakmak, kafanın ağırlığını (yaklaşık 5 kg) boyun kasları üzerinde 25-30 kg'lık bir yüke dönüştürür.
+*   **Arm’s Length (Kol Mesafesi):** Ekran, parmak uçlarınızla dokunamayacağınız kadar uzakta (50-70 cm) olmalıdır.
+*   **Dual Monitor Setup:** Eğer iki ekran kullanıyorsanız, ana ekranı tam karşınızda tutun. İkisini de eşit kullanıyorsanız, birleşim noktasını burnunuzun hizasına getirin ve sadece gözlerinizle değil, tüm boynunuzla dönün.
 
-## 4. Ayakta Çalışma (Standing Desk)
-- Eğer ayakta çalışma masanız varsa, her 30 dakikada bir pozisyon değiştirin. Sürekli ayakta durmak da bel ve bacaklar için yorucu olabilir.
+## 2. Koltuk ve Pelvis Stabilizasyonu
+
+Koltuk, omurganız için bir "Base Station" görevi görür.
+
+*   **Lumbar Support (Bel Desteği):** Koltuğunuzun bel kavisini doldurduğundan emin olun. Pelvisin (leğen kemiği) arkaya devrilmesi (Posterior Tilt), bel fıtığı için en büyük risk faktörüdür.
+*   **90-90-90 Kuralı:**
+    *   Dirsekler 90 derece (masada).
+    *   Kalça 90-100 derece (koltukta).
+    *   Dizler 90 derece (ayaklar yerde).
+*   **Feet on Floor:** Ayaklarınız yere tam basmıyorsa mutlaka bir ayak desteği (footrest) kullanın. Ayakların boşta kalması bel üzerindeki statik yükü artırır.
+
+## 3. Klavye ve Mouse: Biyometrik Giriş Cihazları
+
+*   **Neutral Wrist (Nötr Bilek):** Bilekleriniz yukarı veya yanlara doğru bükülmemelidir. Klavyeniz çok yüksekse, avuç içi desteği (palm rest) yerine ön kol desteği kullanmayı deneyin.
+*   **Vertical Mouse:** Eğer bilek ağrınız varsa, ön kol kemiklerinizin (radius-ulna) birbirine dolanmasını engelleyen dikey (vertical) mouseları tercih edin.
+*   **Keyboard Layout:** Mümkünse bölünmüş (split) klavyeler kullanın; bu, omuzlarınızın öne yuvarlanmasını engeller.
+
+## 4. Standing Desk: Dinamik Ölçeklendirme
+
+Ayakta çalışma masaları sihirli bir değnek değildir. Yanlış kullanım yeni sakatlıklara yol açabilir.
+
+- **Oran:** 45 dakika oturma / 15 dakika ayakta durma döngüsü idealdir.
+- **Anti-Fatigue Mat:** Uzun süre ayakta dururken yumuşak bir mat kullanmak, eklemlere binen şoku azaltır.
+- **Yükseklik:** Ayaktayken dirsekleriniz masa üzerinde 90 derecelik açısını korumalıdır.
 
 ---
-> **İpucu:** En iyi oturma pozisyonu, bir sonraki pozisyonunuzdur. Sabit kalmayın, hareket edin!
+
+> [!IMPORTANT]
+> **Özet:** Ergonomi, vücudunuzu mobilyaya uydurmak değil; mobilyayı vücudunuzun bio-mekaniğine uydurmaktır. Eğer donanımınız (ekipman) buna izin vermiyorsa, "hack" yöntemlerini (altına kitap koyma, yastık desteği vb.) kullanın.
