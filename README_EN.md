@@ -32,8 +32,17 @@ As a system engineer, you know the cost of downtime. What about the downtime cos
 | **Burnout** | 6 months - 1 year career break | $50,000 - $150,000 |
 | **Early Retirement** | Stopping work at 45 | $1M+ (Opportunity cost) |
 
-> [!NOTE]
-> A daily 15-minute "maintenance" routine is the action with the highest ROI (Return on Investment) to zero out these costs.
+---
+
+## 🦠 Biological Patch Notes: v2.0 Update
+
+Update your body regularly. Here are the improvements realized in your system when you apply this protocol:
+
+- **[Fixed]** Lower Back Compression during long standing/sitting sessions.
+- **[Optimization]** Cerebral Blood Flow increased by 30% after 5-minute mobility breaks.
+- **[New Feature]** "Deep Rest" mode unlocked through proper Diaphragmatic Breathing.
+- **[Refactor]** Scapular alignment improved, reducing "Vulture Neck" artifacts.
+- **[Security Update]** Wrist stability enhanced to prevent "Carpal Tunnel" exploits.
 
 ---
 
@@ -45,6 +54,17 @@ Connect your system to the "diagnostic port." Perform these tests regularly ever
 - [ ] **Test B (Thoracic Extension):** Lean back against the chair and stretch. Does your ribcage see the ceiling fully?
 - [ ] **Test C (Wrist Mobility):** Press your palms against the wall, fingers pointing down. Are your wrists at a 90-degree angle?
 - [ ] **Test D (Deep Work Endurance):** Can you focus for 90 minutes straight without pain? (If pain breaks focus, there is a hardware error.)
+
+---
+
+## 🧘 Recovery Modalities: Advanced Recovery
+
+Exercise alone is not enough; the system must "cool down":
+
+1.  **Breathwork (Breathing Engineering):** Use the 4-7-8 technique to switch your nervous system from "Sympathetic" mode to "Parasympathetic" (Repair) mode.
+2.  **Sauna & Cold Plunge:** Initiate cellular-level "garbage collection" (autophagy) through thermal stress.
+3.  **Red Light Therapy (RLT):** Accelerate recovery by increasing mitochondrial efficiency (energy production).
+4.  **Deep Sleep Protocols:** Pull sleep into "High Availability" mode through a combination of magnesium, zero blue light, and a cool room.
 
 ---
 
@@ -64,6 +84,8 @@ Deep dive into our "Documentation" layers:
 - **[🧠 Mental Health](docs/Zihin_SAGLIGI.md)**: Protocol for protecting cognitive performance and serotonin levels.
 - **[🛠 Equipment Guide](docs/EKIPMAN_REHBERI.md)**: Turn your desk into a "Healthy Station."
 - **[🕒 Daily Routines](docs/RUTINLER.md)**: Movement plans tailored for a developer's calendar.
+- **[👁️ Eye Health](docs/GOZ_SAGLIGI.md)**: Digital eye strain and blue light management.
+- **[🚨 Emergency Hotfix](docs/ACIL_MUDAHALE.md)**: First-step protocol for acute injury situations.
 
 ---
 
@@ -71,9 +93,10 @@ Deep dive into our "Documentation" layers:
 
 - [x] Basic Movement Protocol and Scientific Foundations
 - [x] Biohacking, Nutrition, and Mental Health
+- [x] Eye Health and Emergency Hotfix Protocols
 - [ ] **Body-as-a-Code (BaaC):** Automatic import of routines into calendars (ICS/JSON).
 - [ ] **Developer Health Dashboard:** A template to track your own data.
-- [ ] **Open Source Lifestyle:** A community-sourced gallery of the "Best Office Setups."
+- [ ] **Hardware Analytics:** A simple dashboard analyzing wearable device data (HRV, Sleep Score).
 
 ---
 

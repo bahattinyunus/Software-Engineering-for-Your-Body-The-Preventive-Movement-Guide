@@ -1,6 +1,4 @@
-﻿
-
-# 💻 Software Engineering for Your Body: The Preventive Movement Guide
+﻿# 💻 Software Engineering for Your Body: The Preventive Movement Guide
 
 > **"Kariyerinizin en verimli dönemini (peak), bel ve boyun ağrılarıyla 'debug' ederek harcamayın."**
 
@@ -34,8 +32,17 @@ Bir sistem mühendisi olarak kesinti süresinin (downtime) maliyetini bilirsiniz
 | **Burnout (Tükenmişlik)** | 6 ay - 1 yıl kariyer molası | $50,000 - $150,000 |
 | **Erken Emeklilik** | 45 yaşında çalışmayı bırakmak | $1M+ (Fırsat maliyeti) |
 
-> [!NOTE]
-> Günlük 15 dakikalık "bakım" (maintenance), bu maliyetleri sıfırlayabilecek en yüksek ROI (yatırım getirisi) olan aksiyondur.
+---
+
+## 🦠 Biological Patch Notes: v2.0 Güncellemesi
+
+Vücudunuzu düzenli olarak "update" edin. İşte bu protokolü uyguladığınızda sisteminizde gerçekleşecek iyileştirmeler:
+
+- **[Fixed]** Lower Back Compression during long standing/sitting sessions.
+- **[Optimization]** Cerebral Blood Flow increased by 30% after 5-minute mobility breaks.
+- **[New Feature]** "Deep Rest" mode unlocked through proper Diaphragmatic Breathing.
+- **[Refactor]** Scapular alignment improved, reducing "Vulture Neck" artifacts.
+- **[Security Update]** Wrist stability enhanced to prevent "Carpal Tunnel" exploits.
 
 ---
 
@@ -50,6 +57,17 @@ Sisteminizi "teşhis portuna" bağlayın. Bu testleri her ay düzenli yapın:
 
 ---
 
+## 🧘 Recovery Modalities: İleri Seviye Toparlanma
+
+Sadece egzersiz yetmez; sistemin "cool down" olması gerekir:
+
+1.  **Breathwork (Solunum Mühendisliği):** 4-7-8 tekniği ile sinir sistemini "Sempatik" moddan "Parasempatik" (Onarım) moduna geçirin.
+2.  **Sauna & Cold Plunge:** Termal stres ile hücresel düzeyde "garbage collection" (otofaji) başlatın.
+3.  **Red Light Therapy (RLT):** Mitokondriyal verimliliği (enerji üretimi) artırarak iyileşmeyi hızlandırın.
+4.  **Deep Sleep Protocols:** Magnezyum, sıfır mavi ışık ve serin oda kombinasyonu ile uykuyu "High Availability" moduna çekin.
+
+---
+
 ## 🛡 Security Patches: Akut ve Kronik Müdahale
 
 *   **Hotfix (Akut Ağrı):** O an beliniz mi tutuldu? Hemen [EGZERSIZLER.md](docs/EGZERSIZLER.md)'deki "Cat-Cow" ve buz uygulamasına geçin.
@@ -61,11 +79,13 @@ Sisteminizi "teşhis portuna" bağlayın. Bu testleri her ay düzenli yapın:
 
 Repo'muzun "Documentation" katmanları arasında derinleşin:
 
-- **[� Fizyoloji 101](docs/FIZYOLOJI_101.md)**: "Oturmak neden öldürür?" sorusunun bilimsel analizi.
+- **[🧬 Fizyoloji 101](docs/FIZYOLOJI_101.md)**: "Oturmak neden öldürür?" sorusunun bilimsel analizi.
 - **[🚀 Biohacking Rehberi](docs/BIOHACKING.md)**: Giyilebilir teknolojiler ve besin takviyeleri ile sistemi modifiye edin.
 - **[🧠 Zihin Sağlığı](docs/Zihin_SAGLIGI.md)**: Bilişsel performansı ve serotonin seviyelerini koruma protokolü.
-- **[� Ekipman Rehberi](docs/EKIPMAN_REHBERI.md)**: Masanızı bir "Sağlıklı İstasyon"a dönüştürün.
+- **[🛠 Ekipman Rehberi](docs/EKIPMAN_REHBERI.md)**: Masanızı bir "Sağlıklı İstasyon"a dönüştürün.
 - **[🕒 Günlük Rutinler](docs/RUTINLER.md)**: Yazılımcı takvimine uygun hareket planları.
+- **[👁️ Göz Sağlığı](docs/GOZ_SAGLIGI.md)**: Dijital göz yorgunluğu ve mavi ışık yönetimi.
+- **[🚨 Acil Müdahale](docs/ACIL_MUDAHALE.md)**: Akut sakatlık durumlarında ilk adım protokolü.
 
 ---
 
@@ -73,9 +93,10 @@ Repo'muzun "Documentation" katmanları arasında derinleşin:
 
 - [x] Temel Hareket Protokolü ve Bilimsel Temeller
 - [x] Biohacking, Beslenme ve Zihin Sağlığı
+- [x] Göz Sağlığı ve Acil Müdahale Protokolleri
 - [ ] **Body-as-a-Code (BaaC):** Rutinlerin takvimlere otomatik import edilmesi (ICS/JSON).
 - [ ] **Developer Health Dashboard:** Kendi verilerinizi takip edebileceğiniz bir şablon.
-- [ ] **Open Source Lifestyle:** Topluluktan gelen "En İyi Ofis Düzeni" galerisi.
+- [ ] **Hardware Analytics:** Giyilebilir cihaz verilerini (HRV, Sleep Score) analiz eden basit bir dashboard.
 
 ---
 
@@ -86,4 +107,3 @@ Bu rehber bir "monolit" değil, bir "micro-service" mimarisidir. Herkes kendi te
 ---
 
 *Bu repo bir topluluk hareketidir. Vücudunuzu "legacy" hale getirmeyin, her gün güncelleyin (update).*
-
