@@ -2,13 +2,13 @@
 
 > **"Don't spend the peak of your career 'debugging' your back and neck pain. Remember; if the hardware (body) crashes, the software (knowledge & skills) loses all its value."**
 
-[Turkish Version (Türkçe)](README.md) | [Ergonomics](docs/ERGONOMI.md) | [Exercises](docs/EGZERSIZLER.md) | [Routines](docs/RUTINLER.md) | [Mental Health](docs/Zihin_SAGLIGI.md) | [Equipment](docs/EKIPMAN_REHBERI.md) | [Nutrition](docs/BESLENME_VE_HIDRASYON.md) | [🚀 Biohacking](docs/BIOHACKING.md) | [🧬 Physiology 101](docs/FIZYOLOJI_101.md) | [👁️ Eye Health](docs/GOZ_SAGLIGI.md) | [🚨 Emergency Hotfix](docs/ACIL_MUDAHALE.md)
+[Turkish Version (Türkçe)](README.md)
 
 ---
 
 ## 🚨 Why Are You Here? (The Painful Truth and Technical Debt)
 
-As developers and office workers, while we build perfect architectures in the digital world, we leave our **biological machine** (the body) as a "legacy system." Most see sports as just a "hobby" or "aesthetic pursuit." The reality is much more critical.
+As developers and office workers, while we build perfect architectures in the digital world, we leave our **biological machine** (the body) as a "legacy system."
 
 You might not notice, but every day you sit at your desk, you are taking out **physical debt**. If:
 * You only visit a doctor when a disc herniates or your fingers go numb,
@@ -17,44 +17,46 @@ You might not notice, but every day you sit at your desk, you are taking out **p
 
 ---
 
+## 📚 In-Depth Technical Modules (Navigation)
+
+Our guide is modular, designed to optimize different layers of your body. You can "jump" directly to the module you need:
+
+### 🏛️ Core Layers
+* **[🧬 Physiology 101](docs/FIZYOLOJI_101.md)**: Anatomical analysis of the "Physical Debt" created by desk work. Start here to understand *why* you have pain.
+* **[🪑 Ergonomics & Setup](docs/ERGONOMI.md)**: Design your workstation as a "Hardware Interface." A complete setup guide from monitor height to pelvic stabilization.
+
+### 🏃 Movement & Repair
+* **[🧘 Exercise Library](docs/EGZERSIZLER.md)**: Bio-mechanically focused movements tailored for developers. Each movement is a "unit test"; if you can't do it, there's a "bug" in your system.
+* **[🕒 Daily Routines](docs/RUTINLER.md)**: Hourly "Anti-Sitting" micro-movements and post-work "Stabilization" protocols.
+
+### 🧪 System Optimization
+* **[🚀 Biohacking Guide](docs/BIOHACKING.md)**: Maximize your biological performance with metrics (HRV tracking, cold exposure, light management).
+* **[🧠 Mental Health](docs/Zihin_SAGLIGI.md)**: Neuro-physiological strategies to protect "Deep Work" capacity and "Burnout" (System Overload) prevention techniques.
+* **[💧 Nutrition & Hydration](docs/BESLENME_VE_HIDRASYON.md)**: Fuel management and caffeine strategies for brain performance (RAM) and focus.
+
+### 🛡️ Security & Emergency
+* **[👁️ Eye Health](docs/GOZ_SAGLIGI.md)**: Management of digital eye strain and techniques to "reset" eye focus muscles.
+* **[🛠 Equipment Guide](docs/EKIPMAN_REHBERI.md)**: From foam rollers to massage balls, physical "upgrade" tools to support your posture.
+* **[🚨 Emergency Hotfix](docs/ACIL_MUDAHALE.md)**: "Hotfix" - First-aid protocols for acute pain (locked back/stiff neck).
+
+---
+
 ## 🛠 Core Approach: Physiotherapy-Focused Fitness (Prehab vs. Rehab)
 
 The most common mistake is going to the gym and doing heavy workouts that further compress an already tight front chain (chest and shoulders) after 10 hours of hunching. This is **Prehabilitation (Pre-injury prevention)**, not Rehabilitation.
 
-### 1. Proactive Physiotherapy: "Unit Tests"
+### 1. Proactive Physiotherapy: Pain is the Last Stop, Not the First Signal
 * **Maintenance:** Optimizing a server before it crashes is what stretching and stabilizing your spine before it hurts is.
-* **Unit Tests:** Every movement in this guide is a "unit test" for your body. If you can't perform them, there's a "bug" in your biological code.
 
----
-
-## 🏃‍♂️ Implementation Guide: Layered Movement Protocol
-
-### 🔍 Phase 1: "Anti-Sitting" Micro-Movements (Every Hour)
-* **Chin Tuck:** The most effective "debug" method against neck flattening.
-* **Scapular Squeeze:** Merge your shoulder blades to "reset" the system.
-* [🕒 Daily Routines](docs/RUTINLER.md)
-
-### 🏋️‍♂️ Phase 2: Stabilization and Strengthening (Weekly)
-* **Posterior Chain:** Back and hips. The "cables" that pull your body back into alignment.
-* **Core Stability:** Forget sit-ups. Focus on **Plank and Deadbug** to stabilize the spine.
-* [🧘 Exercise Library](docs/EGZERSIZLER.md)
-
----
-
-## 🧬 Advanced Optimization (Deep Dives)
-
-* **[🚀 Biohacking Guide](docs/BIOHACKING.md)**: HRV tracking and sleep optimization.
-* **[🧬 Physiology 101](docs/FIZYOLOJI_101.md)**: Anatomical analysis of desk-bound damage.
-* **[🧠 Mental Health](docs/Zihin_SAGLIGI.md)**: Protocol for protecting cognitive performance.
-* **[👁️ Eye Health](docs/GOZ_SAGLIGI.md)**: Digital eye strain management.
-* **[🚨 Emergency Hotfix](docs/ACIL_MUDAHALE.md)**: Protocol for acute injury situations.
+### 2. Posture Analysis: "The Tech Neck" Syndrome
+A head constantly leaning forward increases the load on your cervical vertebrae by 3-4 times, leading to disc herniation and chronic headaches.
 
 ---
 
 ## 🏗 Project Roadmap
 
 - [x] Basic Movement Protocol and Prehab Vision
-- [x] Biohacking, Eye Health, and Emergency Hotfix Modules
+- [x] Professionalization of all sub-content (TR/EN logic)
 - [ ] **Body-as-a-Code (BaaC):** Automatic import of routines into calendars.
 - [ ] **Developer Health Dashboard:** A template to track your own data.
 
